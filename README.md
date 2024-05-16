@@ -6,3 +6,8 @@ In United States, there are many stores in which a survey was conducted based on
 
 # 2. Data Transformations :      
 Use Case -Design a dashboard to analyze the trend of admissions into state universities. 
+
+# 3. COMPETITIVE MARKETING ANALYSIS REPORT :    
+Shows the exclusive analysis on role different tipes of marketing in the sales of companys.
+
+
