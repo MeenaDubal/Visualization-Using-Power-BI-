@@ -10,4 +10,7 @@ Use Case -Design a dashboard to analyze the trend of admissions into state unive
 #### 3. COMPETITIVE MARKETING ANALYSIS REPORT :    
 Shows the exclusive analysis on role different tipes of marketing in the sales of companys.
 
+#### 4. Microsoft Sales Analyst :    
+
+
 
